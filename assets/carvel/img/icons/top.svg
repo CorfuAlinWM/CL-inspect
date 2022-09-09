@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="22px" viewBox="0 0 17 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>D54A70DF-2A2E-4149-BD7C-24B0EBE86F0D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-12.5%" y="-8.9%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.282968172   0 0 0 0 0.2837781   0 0 0 0 0.285235969  0 0 0 0.187358469 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop/General/Icons/Back-To-Top" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-21.000000, -11.000000)">
+        <g filter="url(#filter-1)" transform="translate(2.000000, 2.000000)" id="Arrow" stroke="#ffffff" stroke-width="2">
+            <g transform="translate(28.000000, 18.000000) rotate(-90.000000) translate(-28.000000, -18.000000) translate(21.000000, 14.000000)">
+                <path d="M8,0 C14.6156123,5.59345364 14.8977157,3.03591731 8.31506394,7.72561807" id="Path-98"></path>
+                <path d="M0,4 C2.36012182,4.05510608 4.72024363,4.11021217 7.08036545,4.16531825" id="Path-99"></path>
+            </g>
+        </g>
+    </g>
+</svg>
